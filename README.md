@@ -27,6 +27,9 @@ despite the growth of decentralized finance, the idea of *truly owning and contr
 
 ## question
 
+**core question:**  
+can creating and using a personal cryptocurrency, like $ga77su, allow individuals to achieve greater control over their savings and financial identity, compared to traditional finance systems or existing cryptocurrencies?
+
 ## hypothesis
 
 ## experiment
