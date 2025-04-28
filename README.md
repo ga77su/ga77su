@@ -25,7 +25,7 @@ a personal cryptocurrency, grown over time, offers a more stable and sovereign a
 ## question
 
 **core question:**  
-can creating and using a personal cryptocurrency, like $ga77su, allow individuals to achieve greater control over their savings and financial identity, compared to traditional finance systems or existing cryptocurrencies?
+can creating and using a self-created cryptocurrency offer individuals greater financial autonomy and self-sovereignty, as an alternative to traditional finance and speculative cryptocurrencies?
 
 ## hypothesis
 
