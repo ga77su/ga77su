@@ -25,7 +25,7 @@ a self-created cryptocurrency, grown over time, offers a more individual-centere
 ## question
 
 **core question:**  
-can creating and using a self-created cryptocurrency offer individuals greater financial autonomy and self-sovereignty, as an alternative to traditional finance and speculative cryptocurrencies?
+can creating and using a self-created cryptocurrency allow individuals to achieve greater financial autonomy and self-sovereignty, as an alternative to the limitations of traditional finance, bitcoin, and speculative tokens?
 
 ## hypothesis
 
