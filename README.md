@@ -40,7 +40,7 @@ launch a personal cryptocurrency using pump.fun on solana to ensure easy creatio
 **public tracking:**  
 create public channels (twitter and telegram) to post regular updates, track the currency’s development, and document personal experiences, thoughts, and strategies. transparency will allow others to observe and learn from the process without being pressured to participate.  
 
-**personal commitment, not promotion:**
+**personal commitment, not promotion:**  
 use the currency primarily as a personal savings vehicle, focusing on growing its value over years through self-commitment. avoid promoting or soliciting external buyers; the goal is self-growth, not hype.  
 
 **long-term observation:**  
