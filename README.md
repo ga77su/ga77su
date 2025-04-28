@@ -6,7 +6,7 @@
   </div>
 </h2>
 
-# $ga77su is an experiment in self-sovereignty.
+# experimental design: self-sovereign currency
 
 ## observation
 
