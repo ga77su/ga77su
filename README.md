@@ -6,8 +6,7 @@
   </div>
 </h2>
 
+# dissertation
 ### $ga77su is an experiment in self-sovereignty.
 
-<h1 align="center">
-  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Click Here</a>
-</h1>
+
