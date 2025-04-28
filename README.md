@@ -6,7 +6,7 @@
   </div>
 </h2>
 
-# $ga77su is an experiment in self-sovereignty.
+# $ga77su is an **experiment** in self-sovereignty.
 
 ## observation
 
