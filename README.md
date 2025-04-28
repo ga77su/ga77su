@@ -15,3 +15,8 @@
   </h2>
 </div>
 
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <span>Left</span>
+    <span style="margin-left: auto; margin-right: auto;">Center</span>
+    <span>Right</span>
+</div>
