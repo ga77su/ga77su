@@ -29,4 +29,7 @@ can creating and using a self-created cryptocurrency allow individuals to achiev
 
 ## hypothesis
 
+**hypothesis:**  
+if individuals create and use their own cryptocurrency, it will offer them greater financial autonomy and self-sovereignty. over time, this approach will reduce reliance on centralized financial systems, diminish the impact of speculative token markets, and foster more individual control over personal wealth, creating a more sustainable financial model.
+
 ## experiment
