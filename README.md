@@ -13,7 +13,7 @@
 **problems with traditional finance:**   
 centralized systems create control imbalances, economic inequality, and dependence on financial institutions, often leading to inefficiency and corruption.  
 
-**rise of cypherpunks & bitcoin:**
+**rise of cypherpunks & bitcoin:**  
 bitcoin offered a decentralized alternative to traditional currencies, empowering individuals with control over their own money and challenging the dominance of central banks.
     
 **ethereum & smart contracts:**  
