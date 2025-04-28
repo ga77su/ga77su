@@ -19,7 +19,7 @@ bitcoin introduced decentralized currency, empowering individuals by removing ce
 **smart contracts & speculative tokens:**  
 the advent of smart contracts enabled defi and token creation, but this led to an influx of speculative tokens, driven by hype and pump-and-dump cycles, destabilizing the market and offering little long-term value.
 
-**self-created currency as an alternative:**
+**self-created currency as an alternative:**  
 a self-created cryptocurrency, grown over time, offers a more individual-centered approach, providing true financial sovereignty and moving beyond speculative behaviors.
 
 ## question
