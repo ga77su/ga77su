@@ -6,11 +6,12 @@
 
   <!-- Center-aligned link -->
   <h2 style="margin: 0; text-align: center; flex-grow: 1;">
-    <a href="https://x.com/ga77su" target="_blank">Twitter</a>
+    <a href="https://x.com/ga77su" target="_blank">twitter</a>
   </h2>
 
   <!-- Right-aligned link -->
   <h2 style="margin: 0;">
-    <a href="https://t.me/ga77su" target="_blank">Telegram</a>
+    <a href="https://t.me/ga77su" target="_blank">telegram</a>
   </h2>
 </div>
+
