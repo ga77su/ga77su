@@ -5,3 +5,5 @@
     <span><a href="https://t.me/ga77su" target="_blank">telegram</a></span>
   </div>
 </h2>
+
+### $ga77su is an experiment in self-sovereignty.
