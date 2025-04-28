@@ -8,6 +8,8 @@
 
 # experimental design
 
+### $ga77su is an experiment in self-sovereignty.
+
 ## observation
 
 ## question
