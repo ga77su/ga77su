@@ -10,20 +10,17 @@
 
 ## observation
 
-**problems with traditional finance:**   
-centralized systems create control imbalances, economic inequality, and dependence on financial institutions, often leading to inefficiency and corruption.  
+**problems with traditional finance:**  
+traditional finance is centralized, creating inequality and inefficiency, with individuals having limited control over their money.  
 
-**rise of cypherpunks & bitcoin:**  
-bitcoin offered a decentralized alternative to traditional currencies, empowering individuals with control over their own money and challenging the dominance of central banks.
-    
-**ethereum & smart contracts:**  
-ethereum introduced smart contracts, enabling decentralized applications and tokens. platforms like solana offered faster, cheaper alternatives for building decentralized financial systems.  
-  
-**proliferation of shitcoins:**  
-the crypto space became flooded with tokens that lacked real value or utility, often used for speculative trading and ponzi schemes rather than building lasting financial systems.
-  
-**missing piece:**   
-despite the growth of decentralized finance, the idea of *truly owning and controlling one’s personal currency* remains underexplored.  
+**the rise of bitcoin & decentralization:**  
+bitcoin and ethereum offered decentralized alternatives to traditional finance, empowering individuals and sparking the growth of decentralized finance (defi).  
+
+**the issue with speculative tokens:**  
+The crypto space has become flooded with shitcoins, which are built for short-term profit through speculation, leading to pump-and-dump cycles and volatile markets.  
+
+**self-created currency as an alternative:**  
+A personal cryptocurrency, grown over time, offers a more stable and sovereign alternative. It’s focused on long-term growth and individual control, creating a financial system that’s less reliant on speculation.  
 
 ## question
 
