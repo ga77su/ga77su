@@ -10,8 +10,8 @@
 
 ### $ga77su is an experiment in self-sovereignty.
 
-## arc one - past
+## arc one - history
 
-## arc two - present
+## arc two - state
 
 ## arc three - future
