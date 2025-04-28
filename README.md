@@ -7,6 +7,9 @@
 </h2>
 
 # dissertation
+
 ### $ga77su is an experiment in self-sovereignty.
 
+## arc one - backlog
 
+## arc two - in progress
