@@ -11,16 +11,16 @@
 ## observation
 
 **problems with traditional finance:**  
-traditional finance is centralized, creating inequality and inefficiency, with individuals having limited control over their money.  
+traditional finance is centralized, leading to inequality and inefficiency, with individuals having limited control over their money.  
 
-**the rise of bitcoin & decentralization:**  
-bitcoin and ethereum offered decentralized alternatives to traditional finance, empowering individuals and sparking the growth of decentralized finance (defi).  
+**the rise of decentralization:**  
+bitcoin introduced decentralized currency, empowering individuals by removing centralized control. however, it creates a hive-mind mentality, where its value depends on collective belief, limiting individuality.
 
-**the issue with speculative tokens:**  
-the crypto space has become flooded with shitcoins, which are built for short-term profit through speculation, leading to pump-and-dump cycles and volatile markets.  
+**smart contracts & speculative tokens:**  
+the advent of smart contracts enabled defi and token creation, but this led to an influx of speculative tokens, driven by hype and pump-and-dump cycles, destabilizing the market and offering little long-term value.
 
-**self-created currency as an alternative:**  
-a personal cryptocurrency, grown over time, offers a more stable and sovereign alternative. it’s focused on long-term growth and individual control, creating a financial system that’s less reliant on speculation.  
+**self-created currency as an alternative:**
+a self-created cryptocurrency, grown over time, offers a more individual-centered approach, providing true financial sovereignty and moving beyond speculative behaviors.
 
 ## question
 
