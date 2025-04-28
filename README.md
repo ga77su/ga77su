@@ -23,7 +23,7 @@ ethereum introduced smart contracts, enabling decentralized applications and tok
 the crypto space became flooded with tokens that lacked real value or utility, often used for speculative trading and ponzi schemes rather than building lasting financial systems.
   
 **missing piece:**   
-despite the growth of decentralized finance, the idea of truly owning and controlling one’s personal currency remains underexplored.  
+despite the growth of decentralized finance, the idea of **truly owning and controlling one’s personal currency** remains underexplored.  
 
 ## question
 
