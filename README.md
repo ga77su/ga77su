@@ -6,12 +6,6 @@
   </div>
 </h2>
 
-# dissertation
+# Experimental Design
 
-### $ga77su is an experiment in self-sovereignty.
 
-## arc one - history
-
-## arc two - state
-
-## arc three - future
