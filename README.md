@@ -8,4 +8,10 @@
 
 # experimental design
 
+## observation
 
+## question
+
+## hypothesis
+
+## experiment
