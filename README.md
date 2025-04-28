@@ -50,4 +50,7 @@ do not encourage others to buy or invest in the currency. the experiment is abou
 treat the project as a decades-long experiment, observing how the currency evolves alongside personal growth, and whether it fosters real sovereignty compared to reliance on traditional finance, bitcoin, or speculative tokens.  
 
 **encourage independent experiments:**  
-while not promoting the specific coin, encourage others to start their own experiments, planting and nurturing their own financial seeds instead of chasing external alpha.
+while not promoting the specific coin, encourage others to start their own experiments, planting and nurturing their own financial seeds instead of chasing external alpha.  
+
+
+
