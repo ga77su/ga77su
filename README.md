@@ -6,6 +6,6 @@
   </div>
 </h2>
 
-# Experimental Design
+# experimental design
 
 
